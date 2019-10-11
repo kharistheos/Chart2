@@ -3,8 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@progress/kendo-data-query": "^1.5.2",
+    "@progress/kendo-drawing": "^1.6.0",
+    "@progress/kendo-react-dateinputs": "^3.4.1",
+    "@progress/kendo-react-dialogs": "^3.4.1",
+    "@progress/kendo-react-dropdowns": "^3.4.1",
+    "@progress/kendo-react-grid": "^3.4.1",
+    "@progress/kendo-react-inputs": "^3.4.1",
+    "@progress/kendo-react-intl": "^3.4.1",
+    "@progress/kendo-theme-default": "^4.4.0",
+    "antd": "^3.23.6",
     "react": "^16.10.2",
+    "react-datepicker": "^2.9.6",
     "react-dom": "^16.10.2",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0"
   },
   "scripts": {
